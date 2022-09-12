@@ -1,3 +1,9 @@
+Тестовое на технического геймдизайнера
+
+![Gameplay](Screenshots/gameplay.jpg?raw=true "Gameplay")
+![BP_Spikes](Screenshots/BP_Spikes.png?raw=true "BP_Spikes")
+![BP_GlassFloor](Screenshots/BP_GlassFloor.png?raw=true "BP_GlassFloor")
+
 Описание проекта
 
 1. Движение персонажа и камера использованны из Third Person Template. Честно говоря, если бы делал сам, то просто пытался бы сделать как сделно в этом темплейте.
